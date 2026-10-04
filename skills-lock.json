@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-design": {
+      "source": "louis-salvosa0101/speedrun-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "106acf230014cbb43ca34e6410371321b56ca742f9ee0442e8ec05bf02eb0384"
+    },
+    "plan": {
+      "source": "louis-salvosa0101/speedrun-skills",
+      "sourceType": "github",
+      "skillPath": "skills/plan/SKILL.md",
+      "computedHash": "6c964c2da0b08a560a4604876aab48f10e059782e034a5fa9a83274d3b55f2c7"
+    },
+    "polish": {
+      "source": "louis-salvosa0101/speedrun-skills",
+      "sourceType": "github",
+      "skillPath": "skills/polish/SKILL.md",
+      "computedHash": "9a30d99ac0cd7e1941f0e3857abb891ffe0fbab9243bf6a3a136e84b5923c2cf"
+    },
+    "setup": {
+      "source": "louis-salvosa0101/speedrun-skills",
+      "sourceType": "github",
+      "skillPath": "skills/setup/SKILL.md",
+      "computedHash": "a0a92779e0af951ddd1b3862608953bbd9812f400b1e596706f979b12f633e71"
+    },
+    "slice": {
+      "source": "louis-salvosa0101/speedrun-skills",
+      "sourceType": "github",
+      "skillPath": "skills/slice/SKILL.md",
+      "computedHash": "cc8504a96e0113c7916b3030370c9297210a80bb22de198fddf51105f18e4864"
+    }
+  }
+}
