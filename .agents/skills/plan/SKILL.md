@@ -14,3 +14,5 @@ Write `PLAN.md` with:
 - **Assumptions**: concise decisions made where the spec was silent or ambiguous.
 
 Stop after writing the plan. Do not implement tasks.
+
+If PLAN.md already exists, do not overwrite it. Tell the user to use the add skill instead.

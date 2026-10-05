@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "add": {
+      "source": "louis-salvosa0101/speedrun-skills",
+      "sourceType": "github",
+      "skillPath": "skills/add/SKILL.md",
+      "computedHash": "3e33ce1a242f94eafb5c35102eeb5761ca139fdece1114775c71f33000bd165b"
+    },
     "frontend-design": {
       "source": "louis-salvosa0101/speedrun-skills",
       "sourceType": "github",
@@ -11,7 +17,7 @@
       "source": "louis-salvosa0101/speedrun-skills",
       "sourceType": "github",
       "skillPath": "skills/plan/SKILL.md",
-      "computedHash": "6c964c2da0b08a560a4604876aab48f10e059782e034a5fa9a83274d3b55f2c7"
+      "computedHash": "fc41b221dc035b83139dd89b16ce26cfc494149b64647e0220d344c7c3b80efb"
     },
     "polish": {
       "source": "louis-salvosa0101/speedrun-skills",
