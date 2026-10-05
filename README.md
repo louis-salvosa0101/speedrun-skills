@@ -1,14 +1,15 @@
 # speedrun-skills
 
-Five Claude skills for building web apps on a timer:
+Six Claude skills for building web apps on a timer:
 
-- `setup` — initialize the project, instructions, stack, and dev server.
-- `plan` — turn a challenge spec into prioritized build tasks.
-- `slice` — implement and commit the next planned task.
-- `polish` — prepare the finished app for submission.
-- `frontend-design` — create distinctive, production-quality frontend interfaces.
+- `setup` - initialize the project, instructions, stack, and dev server.
+- `plan` - turn a challenge spec into prioritized build tasks.
+- `slice` - implement and commit the next planned task.
+- `add` - append a new feature to PLAN.md mid-project and build it.
+- `polish` - prepare the finished app for submission.
+- `frontend-design` - create distinctive, production-quality frontend interfaces.
 
-Flow: `setup` → `plan` → `slice` (repeat) → `polish`.
+Flow: `setup` → `plan` → `slice` (repeat) → `add` (when new features come up) → `polish`.
 
 Install with:
 
